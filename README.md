@@ -7,6 +7,7 @@
 - git clone https://github.com/Linij/translate.git
 - cd translate && python -m venv translate-env
 - source translate-env/bin/activate
+- pip install -r requirements.txt
 - python main.py 
 
 ### Test
